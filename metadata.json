@@ -1,0 +1,72 @@
+{
+  "siteId": "remote-team-progress-tracking",
+  "generatedAt": "2026-06-12T16:23:54.059319",
+  "categories": [
+    "beginner-remote-team-progress-tracking",
+    "advanced-remote-team-progress-tracking",
+    "tips-remote-team-progress-tracking",
+    "history-remote-team-progress-tracking",
+    "trending-remote-team-progress-tracking",
+    "tutorials-remote-team-progress-tracking"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-remote-team-progress-tracking",
+      "category_name": "Beginner Remote Team Progress Tracking"
+    },
+    {
+      "category_slug": "advanced-remote-team-progress-tracking",
+      "category_name": "Advanced Remote Team Progress Tracking"
+    },
+    {
+      "category_slug": "tips-remote-team-progress-tracking",
+      "category_name": "Remote Team Progress Tracking Tips"
+    },
+    {
+      "category_slug": "history-remote-team-progress-tracking",
+      "category_name": "Remote Team Progress Tracking History"
+    },
+    {
+      "category_slug": "trending-remote-team-progress-tracking",
+      "category_name": "Trending Remote Team Progress Tracking"
+    },
+    {
+      "category_slug": "tutorials-remote-team-progress-tracking",
+      "category_name": "Remote Team Progress Tracking Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "remote-team-progress-tracking",
+    "color_scheme": {
+      "name": "Modern Slate",
+      "primary": "#0f172a",
+      "secondary": "#334155",
+      "accent": "#38bdf8",
+      "background": "#f1f5f9",
+      "text": "#1e293b",
+      "light": "#e2e8f0"
+    },
+    "font": {
+      "name": "Playfair Display",
+      "family": "'Playfair Display', serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Sans+Pro:wght@400;600&display=swap');"
+    },
+    "layout": "sidebar-left",
+    "border_radius": "0px",
+    "box_shadow": "0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04)",
+    "article_card_style": "list",
+    "header_style": "classic",
+    "footer_style": "detailed",
+    "modules": [
+      "featured-section",
+      "stats-widget",
+      "category-highlights",
+      "about-widget",
+      "recent-comments",
+      "newsletter-signup"
+    ],
+    "site_title": "Remote Team Progress Tracking Central",
+    "articles_per_row": 2
+  }
+}
